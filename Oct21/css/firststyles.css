@@ -1,0 +1,12 @@
+h1 {
+    color: orange;
+    text-align: center; 
+}
+
+header p {
+    color: green
+}
+
+.color {
+    background-color: yellow;
+}
